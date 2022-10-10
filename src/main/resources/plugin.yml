@@ -1,0 +1,4 @@
+name: PluginTemplate
+version: '${project.version}'
+main: me.twovb.plugintemplate.PluginTemplate
+api-version: 1.18
