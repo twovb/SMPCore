@@ -1,4 +1,4 @@
-package me.twovb.plugintemplate.utils;
+package me.twovb.smpcore.utils;
 
 import org.bukkit.ChatColor;
 

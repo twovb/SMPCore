@@ -1,15 +1,15 @@
-package me.twovb.plugintemplate;
+package me.twovb.smpcore;
 
 import lombok.Getter;
-import me.twovb.plugintemplate.commands.TestCommand;
-import me.twovb.plugintemplate.listeners.TestEvent;
+import me.twovb.smpcore.commands.TestCommand;
+import me.twovb.smpcore.listeners.TestEvent;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class PluginTemplate extends JavaPlugin {
+public final class SMPCore extends JavaPlugin {
 
     @Getter
-    private static PluginTemplate instance;
+    private static SMPCore instance;
 
     @Override
     public void onEnable() {

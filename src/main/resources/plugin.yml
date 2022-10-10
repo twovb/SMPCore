@@ -1,4 +1,4 @@
-name: PluginTemplate
+name: SMPCore
 version: '${project.version}'
-main: me.twovb.plugintemplate.PluginTemplate
-api-version: 1.18
+main: me.twovb.smpcore.SMPCore
+api-version: 1.19

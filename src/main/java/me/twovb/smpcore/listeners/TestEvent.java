@@ -1,6 +1,6 @@
-package me.twovb.plugintemplate.listeners;
+package me.twovb.smpcore.listeners;
 
-import me.twovb.plugintemplate.utils.CC;
+import me.twovb.smpcore.utils.CC;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
